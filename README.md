@@ -52,13 +52,14 @@ Place the figure on a computer desk, mounted on a circular, clear acrylic base w
 
 <h2>📸Ảnh Demo</h2>
 <div align="center" style="display: flex; gap: 10px;">
-  <img width="220" src="https://github.com/user-attachments/assets/1869f669-476c-46ba-8aab-54b3a0584b8b" alt="Gemini_Generate" />
-  <img width="220" src="https://github.com/user-attachments/assets/124ce297-c12e-4cf8-894c-d350ed13aeaa" alt="Gemini_Generated" />
-  <img width="220" src="https://github.com/user-attachments/assets/738e06d6-accd-46a3-8aae-adc79ec8ad6b" alt="Gemini_Generated" />
+  <img width="220" src="https://github.com/user-attachments/assets/1869f669-476c-46ba-8aab-54b3a0584b8b" alt="Gemini_Generated"/>
+  <img width="220" src="https://github.com/user-attachments/assets/124ce297-c12e-4cf8-894c-d350ed13aeaa" alt="Gemini_Generated"/>
+  <img width="220" src="https://github.com/user-attachments/assets/738e06d6-accd-46a3-8aae-adc79ec8ad6b" alt="Gemini_Generated"/>
   <img width="220" src="https://github.com/user-attachments/assets/2fce9473-e757-4d35-ab17-62d0e510cb43" alt="Gemini_Generated"/>
-  <img width="250" src="https://github.com/user-attachments/assets/afb36c63-c9f0-4ac3-9293-14304a00a6cf" alt="Gemini_Generated" />
-  <img width="220" src="https://github.com/user-attachments/assets/296a4319-9292-45c1-9e31-5f74eec4eb5e" alt="Gemini_Generated" />
-  <img width="220" src="https://github.com/user-attachments/assets/ec57673e-d433-4265-afdd-eec287eaaa75" alt="Gemini_Generated" />
+  <img width="250" src="https://github.com/user-attachments/assets/afb36c63-c9f0-4ac3-9293-14304a00a6cf" alt="Gemini_Generated"/>
+  <img width="220" src="https://github.com/user-attachments/assets/296a4319-9292-45c1-9e31-5f74eec4eb5e" alt="Gemini_Generated"/>
+  <img width="220" src="https://github.com/user-attachments/assets/ec57673e-d433-4265-afdd-eec287eaaa75" alt="Gemini_Generated"/>
+  <img width="220" src="https://github.com/user-attachments/assets/990fe2f3-e4ea-4380-a0fd-734a6eae7f0e" alt="Gemini_Generated"/>
 </div>
 
 
