@@ -44,6 +44,12 @@ Place the figure on a computer desk, mounted on a circular, clear acrylic base w
   </tr>
   <tr>
     <td>6</td>
+    <td>Transforming the photographed person into a realistic 3D figurine in front of a computer desk. The computer screen displays a 3D design drawing of the figurine's software interface. The figurine has a transparent base, and next to it is its matching packaging box BAN DAI, allowing the figurine to be seen.
+The overall scene is in a realistic style, with the characters presented in an ultra-realistic manner. The image quality reaches 4K high definition, the lighting effects are bright and layered, and the colors are saturated and vibrant, showcasing the exquisite imaging effect of high-end photography.
+The scene is rich in color and visually impactful. The camera should be able to display different grand backgrounds, with detailed and lively elements in the background, creating an immersive experience./td>
+  </tr>
+  <tr>
+    <td>7</td>
     <td>Create a 1/7 scale commercial character model in illustration, in a realistic style and setting. Place the model on a clear acrylic stand. Next to the computer screen, show the ZBrush modeling process of the model. Next to the computer screen, place a BANDAl style toy box, with the title "X" printed on it, with the name "Y" below the box along with the original artwork.
       <br><br><strong>Lưu ý:</strong> "X" và "Y" là vùng bạn có thể đổi tên theo ý muốn, Nhớ là không có dấu
     </td>
