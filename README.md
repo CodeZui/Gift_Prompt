@@ -50,12 +50,16 @@ The scene is rich in color and visually impactful. The camera should be able to 
   </tr>
   <tr>
     <td>7</td>
+    <td>Modify the image to look like a 3D print with bright silicone-like realistic skin, posed like a photo on an acrylic base. Next to it, place a colored box and a character illustration similar to the reference photo, with the text "Your Name" and the "Ban Dai" logo. Behind it, add a curved PC screen displaying ZBrush or a character render, and also include a photo on the screen, as part of the 3D print background in a gaming room. On the brown table, place a black book, a glass of coffee, a keyboard, a mouse. Ultra-detailed, sharp textures, hyper-realistic, rendered in 4K resolution.</td>
+  </tr>
+  <tr>
+    <td>8</td>
     <td>Using the nano-banana model, create a realistic, promotional-style image of a 1/7 scale commercialized figure based on the character in the illustration. The scene is set during the golden hour, casting a warm, celebratory glow. The character stands in a dynamic pose on a circular, transparent acrylic base, placed on a wooden desk. Next to the figure, display a collector's edition packaging box featuring the original artwork and a clear BanDai logo on the front. The desk is positioned as if on a balcony, overlooking a city street alive with an Independence Day celebration. The background should be a slightly blurred, festive parade with Vietnamese red flags and confetti in the air. The final mood should be chic, proud, and vibrant—a contemporary tribute to national heritage, with the figure as the distinct centerpiece.
     <br><br><strong>Lưu ý: </strong>Đây là Prompt liên quan đến Việt Nam
     </td>
   </tr>
   <tr>
-    <td>8</td>
+    <td>9</td>
     <td>Create a 1/7 scale commercial character model in illustration, in a realistic style and setting. Place the model on a clear acrylic stand. Next to the computer screen, show the ZBrush modeling process of the model. Next to the computer screen, place a BANDAl style toy box, with the title "X" printed on it, with the name "Y" below the box along with the original artwork.
       <br><br><strong>Lưu ý:</strong> "X" và "Y" là vùng bạn có thể đổi tên theo ý muốn, Nhớ là không có dấu
     </td>
