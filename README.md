@@ -66,6 +66,7 @@ The scene is rich in color and visually impactful. The camera should be able to 
   <img width="220" src="https://github.com/user-attachments/assets/296a4319-9292-45c1-9e31-5f74eec4eb5e" alt="Gemini_Generated"/>
   <img width="220" src="https://github.com/user-attachments/assets/ec57673e-d433-4265-afdd-eec287eaaa75" alt="Gemini_Generated"/>
   <img width="220" src="https://github.com/user-attachments/assets/990fe2f3-e4ea-4380-a0fd-734a6eae7f0e" alt="Gemini_Generated"/>
+  <img width="220" src="https://github.com/user-attachments/assets/42341999-60ea-4db7-be81-cdfa96311915" alt="Gemini_Generated"/>
 </div>
 
 
